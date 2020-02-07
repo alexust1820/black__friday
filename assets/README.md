@@ -1,4 +1,4 @@
-# Black Friday 
+# [Black Friday](https://alexust1820.github.io/black__friday/)
 
 This is a progect I've used to learn the basics of web development. The main things I learned here are:
 
